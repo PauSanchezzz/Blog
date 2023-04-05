@@ -8,12 +8,12 @@ body{
     right: 0;
     background-image: url("../imagenes/fondo.jpg");
     background-size: cover;
+    font-family: monospace;
 }
 .titulo-inicial{
     backdrop-filter: blur(15px);
     border-radius: 35px;
     color:white;
-    font-family: monospace;
     font-size: bold;
     text-align: center;
     letter-spacing: 10px;
@@ -80,7 +80,7 @@ nav .profile-link .item-right{
     color:black;    
     width: 150%;
     height: 100%;
-
+    
 }
 .profile-link{
     margin: 20px;
